@@ -4,8 +4,7 @@
     "name": "Light theme",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "source",
-      "light-theme": "disabled"
+      "global": "source"
     }
   }
 ]
